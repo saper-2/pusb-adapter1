@@ -1,3 +1,7 @@
+![Render3D-3](Images/PoweredUSB-Adapter3.png)
+![Photo6](Stand/Photo6.jpg)
+
+
 # PoweredUSB Adapter board
 This repo contains design files for PoweredUSB adapter to USB-C (USB 1.1/2.0 mode) or pinheader with additional power connector (barrel jack socket 5,5x2,1(2,5)mm or JST 2.5mm).
 
